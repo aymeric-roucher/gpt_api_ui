@@ -3,7 +3,7 @@ import openai
 from ipywidgets.widgets import Button, Textarea, Layout, HTML, VBox, HBox, Label
 from markdown import markdown
 
-openai.api_key = # YOUR KEY
+openai.api_key = # Your Key
 
 STYLE = HTML(
     """
